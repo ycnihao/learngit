@@ -13,3 +13,4 @@ what do you think of this？ yes/not ?
 >>>>>>> feature1
 what do you think of this ?yes/not?
 hello i am back again 
+try again
